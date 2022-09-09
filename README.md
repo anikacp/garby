@@ -34,3 +34,6 @@ Once `pip` has finished downloading the dependencies:
 (env)$ python manage.py runserver
 ```
 And navigate to `http://127.0.0.1:8000/`.
+
+# Garby prototype
+check the prototype here <a href="https://garby.anikacp.repl.co/" target="_blank">GARBY</a>
